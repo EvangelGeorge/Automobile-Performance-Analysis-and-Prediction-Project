@@ -8,7 +8,7 @@ Table of Contents
 - Machine Learning Models
 - License
 - Conclusion
-- Contributing
+- Contributions
 
 # Project Overview
 The primary objective of this project is to conduct a comprehensive analysis of an automobile company's dataset and develop accurate machine learning models for predicting automobile performance metrics. By employing EDA techniques and advanced modeling, we aim to uncover patterns, relationships, and factors that influence automobile performance, thereby providing valuable insights to stakeholders. The dataset contains info about automobiles. It has 201 rows and 29 columns.
