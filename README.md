@@ -1,7 +1,8 @@
 # Automobile Performance Analysis and Prediction Project
-Welcome to the Automobile Performance Analysis and Prediction project repository. In this project, we leverage the power of Exploratory Data Analysis (EDA) and machine learning to gain valuable insights into an automobile company's dataset and develop accurate predictive models for automobile performance metrics. This README will guide you through the project's purpose, methodology, structure, usage, and contribution guidelines.
 
-Table of Contents
+In this project, we leverage the power of Exploratory Data Analysis (EDA) and machine learning to gain valuable insights into an automobile company's dataset and develop accurate predictive models for automobile performance metrics. This README will guide you through the project's purpose, methodology, structure, usage, and contribution guidelines.
+
+# Table of Contents
 - Project Overview
 - Methodology
 - Exploratory Data Analysis (EDA)
